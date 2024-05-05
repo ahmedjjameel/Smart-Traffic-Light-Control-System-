@@ -2,6 +2,7 @@
 
 ![image](https://github.com/ahmedjjameel/Smart-Traffic-Light-Control-System-/assets/81799459/4379ea74-c175-431d-82f7-7cec25b08a31)
 
+![video](https://github.com/ahmedjjameel/Smart-Traffic-Light-Control-System-/assets/81799459/cb261c27-3e9a-4aee-bb91-b2bee3eb5139)
 
 # Abstract: 
 Traffic congestion has become a serious issue due to the growing number of vehicles everywhere. Traffic light control system is widely used to control the flow of road junction. Currently, most of the traffic light system used pre-time and count down timers to control traffic flow. Due to the fixed-time setting, often the system unable to handle unexpected heavy traffic flows and cause traffic jam.  Thus, there is a need of adaptive traffic signals which are able to do real time monitoring to control traffic light signal based on traffic density. In this proposal, an adaptive traffic light control system that uses Artificial Intelligence (AI) and image processing and image matching techniques in controlling the traffic in an effective manner by taking images of each lane at a junction. The density of traffic in the images at each junction are compared and more time will be allocated for the vehicles on the densest road to pass compared to other less dense road.
