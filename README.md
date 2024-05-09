@@ -1,6 +1,6 @@
 # Smart-Traffic-Light-Control-System-
 
-![video](https://github.com/ahmedjjameel/Smart-Traffic-Light-Control-System-/assets/81799459/cb261c27-3e9a-4aee-bb91-b2bee3eb5139)
+![30sec](https://github.com/ahmedjjameel/Smart-Traffic-Light-Control-System-/assets/81799459/38058114-1457-4fbc-89b3-4f0d21172075)
 
 
 # Abstract: 
